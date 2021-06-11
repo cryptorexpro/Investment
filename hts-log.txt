@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 May 2021 06:42:14 at http://pixner.net/hyipland/demo/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pixner.net/hyipland/demo/index.html -O1 "C:\Users\Dell\Desktop\CRX2" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:45:51	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/how/how03.png (from pixner.net/hyipland/demo/index.html)
+06:45:52	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/webfonts/fa-solid-900.ttf (from pixner.net/hyipland/demo/assets/css/all.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/owl.video.play.png (from pixner.net/hyipland/demo/assets/css/owl.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_444444_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_555555_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_ffffff_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_777620_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_cc0000_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/css/images/ui-icons_777777_256x240.png (from pixner.net/hyipland/demo/assets/css/jquery-ui.min.css)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor1.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor2.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor3.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor4.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor5.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor6.png (from pixner.net/hyipland/demo/sign-up.html)
+06:45:54	Error: 	"Not Found" (404) at link pixner.net/hyipland/demo/assets/images/sponsor/sponsor7.png (from pixner.net/hyipland/demo/sign-up.html)
+06:46:20	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/about/hero-bg.png (from pixner.net/hyipland/demo/about.html)
+06:46:20	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/investor/investor3.png (from pixner.net/hyipland/demo/about.html)
+06:46:20	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/affiliate/affiliate-bg2.png (from pixner.net/hyipland/demo/affiliate.html)
+06:46:25	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/balls/ball-group7.png (from pixner.net/hyipland/demo/faq.html)
+06:46:46	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/about/hero-bg5.png (from pixner.net/hyipland/demo/contact.html)
+06:46:46	Warning: 	Retry after error -4 (No data (connection closed)) at link pixner.net/hyipland/demo/assets/images/dashboard/earn/btc2.png (from pixner.net/hyipland/demo/operations.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 39 seconds : 255 links scanned, 232 files written (9481935 bytes overall) [6368920 bytes received at 22827 bytes/sec], 4704897 bytes transferred using HTTP compression in 61 files, ratio 31%, 7.5 requests per connection
+(14 errors, 8 warnings, 0 messages)
